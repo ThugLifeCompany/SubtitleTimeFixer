@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{13AF5C46-3FAA-4668-9E7B-1AF2EC1A16F7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SubtitletTimeFixer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SubtitletTimeFixer\Program.cs">
+    <Files>
+      <File FileName="SubtitletTimeFixer\Program.cs" Line="38" Column="30" />
+      <File FileName="SubtitletTimeFixer\SrtContent.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

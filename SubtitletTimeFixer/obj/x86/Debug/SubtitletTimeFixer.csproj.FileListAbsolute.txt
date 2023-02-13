@@ -1,0 +1,11 @@
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\SubtitletTimeFixer.exe
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\SubtitletTimeFixer.pdb
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\mscorlib.dll
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\normidna.nlp
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\normnfc.nlp
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\normnfd.nlp
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\normnfkc.nlp
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\bin\Debug\normnfkd.nlp
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\obj\x86\Debug\SubtitletTimeFixer.csprojResolveAssemblyReference.cache
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\obj\x86\Debug\SubtitletTimeFixer.exe
+C:\MPCS\SubtitletTimeFixer\SubtitletTimeFixer\obj\x86\Debug\SubtitletTimeFixer.pdb
